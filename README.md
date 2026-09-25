@@ -1,4 +1,6 @@
-# React + Vite
+# Shoes_E-commerse
+
+This is an e-commerse landing page using ReactJS.
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
